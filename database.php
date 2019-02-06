@@ -1,8 +1,8 @@
 <?php
 class Database
 {
-    private static $dbName = 'customers' ;
-    private static $dbHost = 'localhost' ;
+    private static $dbName = 'kjmoore4355wi19' ;
+    private static $dbHost = '10.8.30.49' ;
     private static $dbUsername = 'kjmoore4355wi19';
     private static $dbUserPassword = 'Snail123!';
      
